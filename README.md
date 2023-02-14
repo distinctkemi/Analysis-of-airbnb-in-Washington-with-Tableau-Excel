@@ -12,7 +12,7 @@
 
 - Calender: With only four columns and over one million rows, this is the largest of them all. This sheet's details include
 |Column Name| Column Description |
-|----------|------------------|
+-----------------------------------
 |`listing id`| The identifaction number of each listing. This is the key used in seprating the dataset into separate sheet|
 |`date`| Date the listing were last updated |
 | `Price`| Price of airbnb with respect to the data |
