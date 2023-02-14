@@ -10,9 +10,11 @@
 
 - Reviews: There were only six columns on this sheet, and they included the reviewer's name, the date the review was submitted, the review Id, the listing Id, the reviewer's ID, and any general remarks they had. There were 84,850 reviews on this sheet.
 
-- Calender: With only four columns and over one million rows, this is the largest of them all. This sheet's details include
+- Calender: With only four columns and over one million rows, this is the largest of them all. This sheet's details include: 
+
+
 |Column Name| Column Description |
------------------------------------
+|------------|--------------------|
 |`listing id`| The identifaction number of each listing. This is the key used in seprating the dataset into separate sheet|
 |`date`| Date the listing were last updated |
 | `Price`| Price of airbnb with respect to the data |
