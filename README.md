@@ -23,7 +23,7 @@
 **Summary of findings**
 - The average cost of an Airbnb increases with the number of bedrooms.
 - Due to the fact that June is peak summer season and December is peak holiday season, the income from AirBnB peaks in these months.
-- Central Business District and Capital Hill has the most expensive airbnbs
+- Central Business District and Capital Hill has the most expensive airbnbs while crown hill has the cheapest airbnbs
 
 
 
